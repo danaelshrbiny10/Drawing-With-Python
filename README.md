@@ -1,7 +1,7 @@
 <h1> installations: </h1>
 <pre>
  - <a href="https://pypi.org/project/PythonTurtle/">PythonTurtle 0.3.2</a>
- - <a href="https://pypi.org/project/opencv-python/">pip install opencv-python</a>
+ - <a href="https://pypi.org/project/opencv-python/">opencv-python 4.5.3.56</a>
  </pre>
  
 <h1> tutorial: </h1>
