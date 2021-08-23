@@ -7,7 +7,7 @@
 <h1> tutorial: </h1>
 <pre>
     - <a href="https://docs.python.org/3/library/turtle.html">turtle — Turtle graphics</a>
-    - <a href="https://realpython.com/beginners-guide-python-turtle/k">The Beginner's Guide to Python Turtle</a>
+    - <a href="https://realpython.com/beginners-guide-python-turtle/#:~:text=turtle%20is%20a%20pre%2Dinstalled,gives%20the%20library%20its%20name.&text=Most%20developers%20use%20turtle%20to,create%20designs%2C%20and%20make%20images.">The Beginner's Guide to Python Turtle</a>
     - <a href="https://analyticsindiamag.com/converting-image-into-a-pencil-sketch-in-python/">Converting Image Into A Pencil Sketch In Python</a>
     - <a href="https://www.geeksforgeeks.org/convert-image-into-sketch/">Convert Image into Sketch</a>
   
