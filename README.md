@@ -10,5 +10,6 @@
     - <a href="https://realpython.com/beginners-guide-python-turtle/#:~:text=turtle%20is%20a%20pre%2Dinstalled,gives%20the%20library%20its%20name.&text=Most%20developers%20use%20turtle%20to,create%20designs%2C%20and%20make%20images.">The Beginner's Guide to Python Turtle</a>
     - <a href="https://analyticsindiamag.com/converting-image-into-a-pencil-sketch-in-python/">Converting Image Into A Pencil Sketch In Python</a>
     - <a href="https://www.geeksforgeeks.org/convert-image-into-sketch/">Convert Image into Sketch</a>
+    - <a href="https://junilearning.com/blog/coding-projects/python-draw-an-animal-face/">Draw an Animal Face</a>
   
 </pre>
